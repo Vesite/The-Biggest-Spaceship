@@ -3,6 +3,13 @@ A game where you capture large spaceships, the game then zooms out and reveals e
 Created in Gamemaker Studio 2.  
 GMTK 2024 Game-Jam Entry  
 Play directly in your browser or download the Windows build from the [Itch.io Game Page](https://vesite.itch.io/the-biggest-spaceship)
+  
+### How to run the project
+To run this project, you will need to download the files and open the project in GameMaker Studio 2.  
+   - From the GMS2 start screen, click on "Import" or "Open Project."
+   - Navigate to the folder where you cloned or extracted the project and open the `.yyp` file (GameMaker Studio 2 Project File).
+   - This will load the entire project into GameMaker Studio 2.
+  
 
 ### Screenshots
 
