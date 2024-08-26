@@ -1,8 +1,8 @@
 # The-Biggest-Spaceship
-A game where you capture large spaceships, the game then zooms out and reveals even bigger spaceships to capture.  
-Created in Gamemaker Studio 2.  
+A game where you capture large spaceships, the game then zooms out and reveals even bigger spaceships to capture  
+Created in Gamemaker Studio 2  
 GMTK 2024 Game-Jam Entry  
-Play directly in your browser or download the Windows build from the [Itch.io Game Page](https://vesite.itch.io/the-biggest-spaceship)
+Play directly in your browser or download the Windows build from the [Itch.io Game Page](https://vesite.itch.io/the-biggest-spaceship)  
 
 ## How to run the project
 To run this project, you will need to download the files and open the project in GameMaker Studio 2.  
