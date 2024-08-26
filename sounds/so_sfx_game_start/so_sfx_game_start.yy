@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"so_sfx_game_start",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.634671,
+  "name":"so_sfx_game_start",
+  "parent":{
+    "name":"SFX",
+    "path":"folders/SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"so_sfx_game_start.wav",
+  "type":0,
+  "volume":0.65,
+}

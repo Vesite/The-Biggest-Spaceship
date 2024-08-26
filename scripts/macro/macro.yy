@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"macro",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"macro",
+  "parent":{
+    "name":"The-Biggest-Spaceship",
+    "path":"The-Biggest-Spaceship.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
