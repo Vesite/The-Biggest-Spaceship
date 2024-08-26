@@ -26,5 +26,4 @@ To run this project, you will need to download the files and open the project in
 ![Screenshot 2024-08-26 15-32-37](https://github.com/user-attachments/assets/0747e6bd-1848-40dc-a3fb-0c262ca39e19)
 ![Screenshot 2024-08-26 15-33-06](https://github.com/user-attachments/assets/48160528-efe6-45ed-84e0-6c1e68a61339)
 ![Screenshot 2024-08-26 15-34-08](https://github.com/user-attachments/assets/cc25a5a9-6e5c-4ce4-b684-37c6ad92e6fc)
-
 ![Screenshot 2024-08-26 15-35-30](https://github.com/user-attachments/assets/92b5fd5a-bb5a-40de-aa3e-b861c442d5e1)
